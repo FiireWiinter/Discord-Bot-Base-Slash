@@ -1,0 +1,9 @@
+asyncpg
+discord
+DateTime
+asyncio
+statcord.py
+topggpy
+python-dotenv
+pyyaml
+coloredlogs
